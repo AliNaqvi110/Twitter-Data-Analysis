@@ -12,3 +12,8 @@ Social Media Twitter data analysis using Power BI
 <p>On the top right corner of the dashboard is a bar chart that displays the top ten tweets based on the number of clicks they received. Below the bar chart, there is a grouped bar chart that shows media views and media engagement on each day of the month. This chart provides a visual representation of the performance of media-based tweets and helps users to identify trends in media engagement over time.</p>
 
 <p>In conclusion, the Twitter Data Dashboard provides a comprehensive view of the performance of tweets and allows users to gain valuable insights into the engagement and reach of their tweets.</p>
+
+
+<img src="https://github.com/AliNaqvi110/Twitter-Data-Analysis/blob/main/Tweets_Analysis.PNG">
+
+<p>The Dashboard, created in Power BI, presents a comprehensive analysis of the same dataset used previously. The Month selector on the left allows users to choose from the available months, while the Day selector on the right provides further specificity to the analysis. The informational cards in between the selectors give insights into key metrics such as total tweets, URL clicks, likes, hashtag clicks, replies, and retweets. These cards provide a clear picture of the engagement on the platform during the selected time period. Additionally, the word cloud graph at the bottom of the dashboard highlights the most frequently used words in tweets during the same time period, offering a deeper understanding of the content and themes present on the platform. Overall, this Dashboard offers a robust and user-friendly approach to data analysis and visualization.</p>
